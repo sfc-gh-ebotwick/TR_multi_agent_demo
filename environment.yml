@@ -5,3 +5,4 @@ dependencies:
   - faker=*
   - snowflake-ml-python=*
   - snowflake.core=*
+  - tabulate=*
