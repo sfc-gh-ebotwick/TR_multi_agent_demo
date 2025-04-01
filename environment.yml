@@ -2,6 +2,7 @@ name: app_environment
 channels:
   - snowflake
 dependencies:
+  - bs4=*
   - faker=*
   - snowflake-ml-python=*
   - snowflake.core=*
