@@ -19,7 +19,6 @@ if "download_clicked" not in st.session_state:
 ## Start testing cortex analyst api call here
 from typing import List, Dict, Optional
 import _snowflake
-
 from typing import List
 from snowflake.core import Root
 
